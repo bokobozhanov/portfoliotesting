@@ -1,0 +1,24 @@
+[
+  {
+    "id":"WATCH-1",
+    "title":"Redmi Watch 5 PRO",
+    "link":"https://www.mi.com/global/product/redmi-watch-5/",
+    "description":"See more - do more. Bigger screen than ever.",
+    "price":249,
+    "image_link":"https://api.technopolis.bg/medias/Product-details-main-505548.jpg?context=bWFzdGVyfHJvb3R8MTY0OTI0fGltYWdlL2pwZWd8YURVd0wyaGxNaTgwTkRNNE9ESTJOekUyTXpZM09DOVFjbTlrZFdOMExXUmxkR0ZwYkhNdGJXRnBibDgxTURVMU5EZ3VhbkJufGIwNDE0YjA4NTE0MzhlMDc3NjQ1MmRhYmRkNjY2NmMzODY0ZmZkM2Q3M2IyOWZhMTRjNTVlY2UxNDdjM2JkMDg",
+    "categories":["swag"],
+    "inventory_quantity":25,
+    "inventory_policy":1
+  },
+  {
+    "id":"WATCH-2",
+    "title":"Apple Watch Series 9 Pink",
+    "link":"https://www.apple.com/shop/buy-watch",
+    "description":"Cutting edge software and a big screen.",
+    "price":399,
+    "image_link":"https://istyle.bg/media/catalog/product/a/p/apple_watch_series_9_gps_41mm_pink_aluminum_light_pink_sport_band_pdp_image_position-1__en-us_1.jpg",
+    "categories":[""swag"],
+    "inventory_quantity":30,
+    "inventory_policy":1
+  }
+]
